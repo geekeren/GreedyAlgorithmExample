@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447483780 source:e:\c++\c++project\greedy\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
